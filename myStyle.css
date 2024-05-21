@@ -1,0 +1,30 @@
+
+body{
+    background-color:chocolate;
+    background-image: url("bg3.jpg");
+    background-repeat: no-repeat;
+     background-position: top right;
+     background-attachment: fixed;
+     margin-right: 200px;
+  }
+  
+  h2{
+  color: gold;
+  }
+
+  #ref{
+    color: black;
+  }
+  
+  #contact{
+  text-align: center;
+  color: aliceblue;
+  }
+  
+  #intro{
+  color: snow;
+  }
+  
+  li{
+  color: white;
+  }
